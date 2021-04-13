@@ -1,4 +1,4 @@
-# smart_tv
+# ideal flix
 
 A new Flutter application.
 
